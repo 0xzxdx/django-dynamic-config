@@ -1,2 +1,1 @@
-# django-dynamic-config
-Django Dynamic Config
+# Django Dynamic Config
